@@ -1,0 +1,13 @@
+12 = [22, True, "txt", [1,2]]
+lista = [12, 34, 654, 23, 34, 6 ,3 ,3]
+lista [1] = 30
+lista.append(100)
+
+
+valor = 12 [3] [1]
+valor = 2 
+
+persona = { "nombre ": " nick", "edad":21, "ciudad": "cienga magdalena"}
+n= persona = ["nombre "]
+vacio = {}
+p= dict( [ ( "a", 1) (" b" ,2)  ])
