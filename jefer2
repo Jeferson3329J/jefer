@@ -1,0 +1,10 @@
+numerico1 = 32
+numerico2 = 23
+suma = numerico1 + numerico2
+resta  = numerico1 - numerico2
+multiplicacion = numerico1 * numerico2
+division = numerico1 / numerico2
+
+print("suma:",suma)
+print("resta:",resta)
+print("multiplicacion:",multiplicacion)
